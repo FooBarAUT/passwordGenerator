@@ -1,0 +1,10 @@
+C:\Users\wagne\source\repos\converter\converter\bin\Debug\converter.exe.config
+C:\Users\wagne\source\repos\converter\converter\bin\Debug\converter.exe
+C:\Users\wagne\source\repos\converter\converter\bin\Debug\converter.pdb
+C:\Users\wagne\source\repos\converter\converter\obj\Debug\converter.csprojAssemblyReference.cache
+C:\Users\wagne\source\repos\converter\converter\obj\Debug\converter.Properties.Resources.resources
+C:\Users\wagne\source\repos\converter\converter\obj\Debug\converter.csproj.GenerateResource.cache
+C:\Users\wagne\source\repos\converter\converter\obj\Debug\converter.csproj.CoreCompileInputs.cache
+C:\Users\wagne\source\repos\converter\converter\obj\Debug\converter.exe
+C:\Users\wagne\source\repos\converter\converter\obj\Debug\converter.pdb
+C:\Users\wagne\source\repos\converter\converter\obj\Debug\converter.Form1.resources
